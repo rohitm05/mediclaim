@@ -17,7 +17,7 @@ String result;
 session=request.getSession();
 String user=(String)session.getAttribute("uid");
 String pr1=(String)session.getAttribute("pr");
-final String to="devbiswas2804@gmail.com";
+final String to="mukherjeerohit5@gmail.com";
 final String subject=("CLAIM APPROVAL CONFIRMATION");
 %>
 <p style="color: red; font-weight: bold;">
